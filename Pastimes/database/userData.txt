@@ -1,0 +1,15 @@
+# userData.txt — Pastimes User Seed Data
+# Format: first_name | last_name | email | username | password | role | seller_status
+# Passwords will be hashed by createTable.php / loadClothingStore.php
+# At least 5 records required (POE requirement)
+#
+Nomvula|Khumalo|nomvula.k@email.co.za|Nomvula_K|Pastimes2024!|seller|verified
+Thabo|Mokoena|thabo.style@email.co.za|Thabo_Style|Thrift@2024|seller|verified
+Lerato|Dlamini|lerato.d@email.co.za|LuxeFinds|Luxury#99|seller|verified
+Sipho|Mthembu|sipho.m@email.co.za|Sipho_M|Shop@2024!|buyer|none
+Thandi|Pretorius|thandi.p@email.co.za|Thandi_P|Buyer2024!|buyer|none
+Vintage|Nkosi|vintage97@email.co.za|Vintage_97|Vintage@97|seller|pending
+Urban|Thrift|urban.thrift@email.co.za|UrbanThrift|Urban#2024|seller|verified
+Admin|Pastimes|admin@pastimes.co.za|admin|Admin@Pastimes1|admin|none
+Aisha|Patel|aisha.p@email.co.za|AishaP|Fashion!99|buyer|none
+Marco|Ferreira|marco.f@email.co.za|MarcoF|Marco#Style|seller|pending

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" width="200" height="80">
+  <!-- Hanger circle -->
+  <circle cx="38" cy="38" r="28" fill="none" stroke="#0D8B8B" stroke-width="3"/>
+  <!-- Hanger hook -->
+  <path d="M38 10 Q38 3 44 3 Q50 3 50 8" fill="none" stroke="#082B59" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Hanger bar -->
+  <line x1="18" y1="26" x2="58" y2="26" stroke="#082B59" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- T-shirt shape -->
+  <path d="M25 26 L20 34 L28 34 L28 50 L48 50 L48 34 L56 34 L51 26" fill="none" stroke="#0D8B8B" stroke-width="1.5"/>
+  <!-- Leaf accent -->
+  <path d="M52 46 Q60 38 58 28" fill="none" stroke="#0D8B8B" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- PASTIMES text -->
+  <text x="75" y="34" font-family="Poppins, Arial, sans-serif" font-size="18" font-weight="700" fill="#082B59">PAST</text>
+  <text x="123" y="34" font-family="Poppins, Arial, sans-serif" font-size="18" font-weight="700" fill="#0D8B8B">IMES</text>
+  <!-- Tagline -->
+  <text x="75" y="50" font-family="Poppins, Arial, sans-serif" font-size="7" fill="#868e96" letter-spacing="0.5">PRE-LOVED BRANDS. NEW STORIES.</text>
+</svg>

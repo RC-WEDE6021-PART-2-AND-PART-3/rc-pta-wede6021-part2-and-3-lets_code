@@ -1,0 +1,14 @@
+# ordersData.txt — Orders Seed Data
+# Format: buyer_id | item_id | address_id | quantity | total_amount | order_ref | status
+# buyer_id: Sipho=4, Thandi=5, Aisha=9
+#
+4|4|1|1|180.00|ORD-20240501|delivered
+5|6|2|1|250.00|ORD-20240502|delivered
+4|9|1|1|350.00|ORD-20240510|shipped
+9|11|3|1|220.00|ORD-20240515|pending
+5|12|2|1|550.00|ORD-20240518|paid
+4|13|1|1|380.00|ORD-20240520|pending
+9|14|3|1|290.00|ORD-20240522|shipped
+5|2|2|1|445.00|ORD-20240525|delivered
+4|5|1|1|390.00|ORD-20240528|paid
+9|7|3|1|480.00|ORD-20240530|pending
