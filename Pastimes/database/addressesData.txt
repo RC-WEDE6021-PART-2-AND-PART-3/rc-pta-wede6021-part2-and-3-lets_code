@@ -1,0 +1,13 @@
+# addressesData.txt — Delivery Addresses Seed Data
+# Format: user_id | address_type | street | city | province | postal_code
+#
+4|residential|12 Khumalo Street|Cape Town|Western Cape|8001
+5|residential|45 Pretorius Avenue|Johannesburg|Gauteng|2196
+9|residential|78 Patel Road|Durban|KwaZulu-Natal|4001
+4|work|100 Buitenkant Street|Cape Town|Western Cape|8001
+5|work|22 Sandton Drive|Sandton|Gauteng|2196
+1|residential|34 Main Road|Cape Town|Western Cape|7700
+2|residential|56 Church Street|Pretoria|Gauteng|0002
+3|residential|89 Long Street|Cape Town|Western Cape|8001
+7|residential|11 Commissioner Street|Johannesburg|Gauteng|2001
+9|work|200 Smith Street|Durban|KwaZulu-Natal|4001

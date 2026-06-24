@@ -1,0 +1,19 @@
+# photosData.txt — Item Photos Seed Data
+# Format: item_id | file_path | is_primary
+# Filenames match exactly what exists in /images/
+#
+1|images/NIKE.png|1
+2|images/Levi's.png|1
+3|images/Kate Spade.png|1
+4|images/Zara.png|1
+5|images/Adidas Hoodie.png|1
+6|images/H&M Linen Shirt.png|1
+7|images/Levi's 501 Original Jeans.png|1
+8|images/Puma Track Jacket.png|1
+9|images/Tommy Hilfiger Polo Shirt.png|1
+10|images/Gucci Canvas Tote Bag.png|1
+11|images/Woolworths Chino Pants.png|1
+12|images/Nike Air Max Sneakers.png|1
+13|images/Superdry Hoodie.png|1
+14|images/H&M Floral Dress.png|1
+15|images/Levi's Sherpa Trucker Jacket.png|1

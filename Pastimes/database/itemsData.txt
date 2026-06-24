@@ -1,0 +1,19 @@
+# itemsData.txt — Pastimes Items Seed Data
+# Format: seller_id | item_name | brand | category | size | colour | condition | description | price | status
+# seller_id references users table (Nomvula=1, Thabo=2, Lerato=3, UrbanThrift=7)
+#
+1|Nike Crewneck Sweatshirt|Nike|Hoodies & Sweatshirts|M|Navy Blue|excellent|Classic Nike crewneck sweatshirt in navy blue. Perfect for everyday wear. Soft fleece material with a relaxed fit. Minimal signs of wear.|320.00|available
+2|Levi's Classic Denim Jacket|Levi's|Jackets|L|Blue|good|Iconic Levi's trucker jacket in classic blue denim. Slightly worn at the elbows but in great overall condition. A timeless wardrobe staple.|445.00|available
+3|Kate Spade Classic Shoulder Bag|Kate Spade|Accessories|One Size|Yellow|excellent|Gorgeous Kate Spade shoulder bag in vibrant yellow. Used only a handful of times. No scratches or stains. Comes with original dust bag.|650.00|available
+1|Zara Striped T-Shirt|Zara|T-Shirts|S|Black/White|fair|Zara classic striped tee. Some minor pilling on the fabric but still wearable. Great for casual days.|180.00|available
+7|Adidas Hoodie|Adidas|Hoodies & Sweatshirts|L|Grey|good|Classic Adidas trefoil hoodie in heather grey. Soft inside fleece, drawstring intact. Light wear, no holes or stains.|390.00|available
+3|H&M Linen Shirt|H&M|Shirts|M|White|excellent|Crisp white linen shirt from H&M Conscious Collection. Worn once, dry cleaned. Perfect for summer or layering.|250.00|available
+2|Levi's 501 Original Jeans|Levi's|Jeans|32|Blue|good|Levi's 501 straight-leg jeans. Well-fitted and iconic silhouette. Minor fading consistent with age, no tears.|480.00|available
+7|Puma Track Jacket|Puma|Jackets|M|Black|excellent|Puma track jacket with side stripes. Very light use, zips work perfectly. A sporty classic.|420.00|available
+1|Tommy Hilfiger Polo Shirt|Tommy Hilfiger|T-Shirts|L|Red|excellent|Tommy Hilfiger polo shirt in bold red. Worn twice, no marks. Logo embroidery intact.|350.00|available
+3|Gucci Canvas Tote Bag|Gucci|Accessories|One Size|Beige|good|Gucci GG canvas tote — pre-loved with slight handle wear. Authenticated. Comes with care card.|2800.00|available
+2|Woolworths Chino Pants|Woolworths|Jeans|32|Khaki|good|Classic chino pants from Woolworths. Comfortable fit, minimal creasing. Great office or casual wear.|220.00|available
+7|Nike Air Max Sneakers|Nike|Accessories|10|White|fair|Nike Air Max in white. Sole shows wear but uppers are clean. Soles replaced recently.|550.00|available
+1|Superdry Hoodie|Superdry|Hoodies & Sweatshirts|XL|Orange|excellent|Bold Superdry hoodie. Worn a few times, washed gently. Drawstring and zips in perfect condition.|380.00|available
+3|H&M Floral Dress|H&M|Dresses|S|Floral|excellent|Cute H&M floral midi dress. Worn once to a garden party. No alterations, original shape retained.|290.00|available
+2|Levi's Sherpa Trucker Jacket|Levi's|Jackets|M|Brown|good|Levi's Sherpa-lined trucker jacket. Warm and cosy. Light stain on inner lining only. Perfect for winter.|620.00|available
